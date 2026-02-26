@@ -32,7 +32,7 @@
 
 Клонувати репозиторій за допомогою команди
 
-git clone <URL\_репозиторію>
+```git clone <URL\_репозиторію>```
 
 та перейти до теки лабораторної роботи.
 
@@ -40,21 +40,21 @@ git clone <URL\_репозиторію>
 
 Створити та активувати віртуальне середовище (рекомендовано):
 
-python -m venv venv
+```python -m venv venv```
 
-venv\\Scripts\\activate
+```venv\\Scripts\\activate```
 
 
 
 Встановити необхідні залежності:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 
 Запустити Jupyter Notebook командою:
 
-jupyter notebook
+```jupyter notebook```
 
 
 
