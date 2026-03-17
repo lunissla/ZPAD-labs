@@ -1,24 +1,37 @@
-# Python
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
 __pycache__/
 *.py[cod]
-*$py.class
 
 # Virtual environment
 venv/
 env/
-.venv/
+*.env
+*.venv
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Data files
+data/
+*.csv
+*.xlsx
+*.json
 
-# VS Code
-.vscode/
-
-# System files
+# OS files
 .DS_Store
 Thumbs.db
 
 # Logs
 *.log
 
-adult.data
+# Output files
+*.html
+*.pdf
+*.png
+*.jpeg
+*.jpg
+*.svg
+
+# Other temporary files
+*.tmp
+*.bak
