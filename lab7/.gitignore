@@ -1,0 +1,12 @@
+# build папка
+build/
+
+# CMake файли
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# тимчасові файли
+*.log
+*.tmp
